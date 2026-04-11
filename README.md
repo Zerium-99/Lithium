@@ -16,7 +16,7 @@ The tool provides four options:
 Clone the repository:
 
 ```bash
-git clone ..
+git clone https://github.com/Zerium-99/Lithium.git
 ```
 
 Navigate to the "Lithium" folder
