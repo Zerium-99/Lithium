@@ -25,6 +25,11 @@ Make the file executable
 
 `chmod +x Lithium.sh"
 
+```bash
+./install
+```
+
+
 Execute the file 
 
 `sudo ./Lithium.sh`
