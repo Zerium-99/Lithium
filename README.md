@@ -2,7 +2,8 @@
 A [Beef-XSS](https://github.com/beefproject/beef) automation tool to publicly host your own hook link.
 
 ## 📸 Screenshot(s) 
-<img width="1913" height="931" alt="image" src="https://github.com/user-attachments/assets/54067272-be7f-45bc-a407-d72d3e7f371b" />
+<img width="1908" height="927" alt="image" src="https://github.com/user-attachments/assets/2d06066c-c513-4451-afa1-992e969a4c7e" />
+
 
 ## Tool Description
 
