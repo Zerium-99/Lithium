@@ -3,7 +3,7 @@ A [Beef-XSS](https://github.com/beefproject/beef) web-based automation tool for 
 
 ## 🛠️ Tool Description
 
-Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url with port forwarding.
+Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
 The tool provides four options:
 
 - Install Ngrok
