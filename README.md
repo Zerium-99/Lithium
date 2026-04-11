@@ -5,9 +5,10 @@ A [Beef-XSS](https://github.com/beefproject/beef) web-based automation tool for 
 
 Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url with port forwarding.
 The tool provides four options:
+
 - Install Ngrok
-- Enable Ngrok authtoken
-- Start hosting
+- Enable Ngrok authtoken: 
+- Start hosting:
 - Exit
 
 ## 📸 Screenshot(s) 
