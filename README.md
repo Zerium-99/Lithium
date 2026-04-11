@@ -7,8 +7,8 @@ Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpo
 The tool provides four options:
 
 - Install Ngrok
-- Enable Ngrok authtoken: 
-- Start hosting:
+- Enable Ngrok authtoken
+- Start hosting
 - Exit
 
 ## 📸 Screenshot(s) 
