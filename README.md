@@ -16,6 +16,15 @@ The tool provides four options:
 - Start hosting
 - Exit
 
+## Prerequisites
+- Beef-XSS [Browser Exploitation Framework]
+- NGROK [For tunneling]
+- NGROK Authtoken
+- git [To clone this repository]
+- chmod [To make the bash script executable]
+- Root 
+
+
 ## 💎 Getting started
 
 Clone the repository:
