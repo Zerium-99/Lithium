@@ -31,7 +31,7 @@ Lithium Sets up:
 # OS Compatibility 
 
 | OS     | Is compatible |
-|--------|---------------|         
+|--------|----------     |         
 | Mario  | 16  ----------|
 | Giulia | 15  ----------|
 | Luca   | 17  ----------|
