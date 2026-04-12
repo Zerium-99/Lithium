@@ -22,7 +22,8 @@ The tool provides four options:
 - NGROK Authtoken
 - git [To clone this repository]
 - chmod [To make the bash script executable]
-- Root 
+- Root
+- Linux-based operating system
 
 
 ## 💎 Getting started
