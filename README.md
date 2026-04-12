@@ -28,13 +28,13 @@ Lithium Sets up:
 - Public-facing server configuration
 - Launches the BeEF framework ready for use
 
-# OS Compatibility 
+# OS/Device Compatibility 
 
-| OS     | Is compatible |
-|--------|----------     |
-| Mario  | Yes           |
-| Giulia | No            |
-| Luca   | Yes           |
+| OS/Device         | Is compatible |
+|--------           |----------     |
+| iPhone            | No            |
+| Android(Termux)   | No            |
+| Luca              | Yes           |
 
 ## 📝 Prerequisites
 - Beef-XSS [Browser Exploitation Framework]
