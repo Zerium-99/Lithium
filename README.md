@@ -17,7 +17,7 @@ The author is not responsible for any misuse, damage, or illegal activity caused
 Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
 It provides four options:
 
-# 1 Install Ngrok
+# Install Ngrok
 Automatically installs ngrok from its official repository, simplifying tunneling setup.
 
 # Enable Ngrok authtoken
