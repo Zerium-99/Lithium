@@ -31,10 +31,10 @@ Lithium Sets up:
 # OS Compatibility 
 
 | OS     | Is compatible |
-|--------|----------     |         
-| Mario  | 16  ----------|
-| Giulia | 15  ----------|
-| Luca   | 17  ----------|
+|--------|----------     |
+| Mario  | Yes           |
+| Giulia | No            |
+| Luca   | Yes           |
 
 ## 📝 Prerequisites
 - Beef-XSS [Browser Exploitation Framework]
