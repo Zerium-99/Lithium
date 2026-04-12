@@ -1,6 +1,6 @@
 # 👾 Lithium
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![Language](https://img.shields.io/badge/Language-Bash-Bash) ![Version](https://img.shields.io/badge/Version-1.0-1) ![Tool Type](https://img.shields.io/badge/Tool%20type-Automation-e)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![Language](https://img.shields.io/badge/Language-Bash-Bash) ![Version](https://img.shields.io/badge/Version-1.0-1) ![Tool Type](https://img.shields.io/badge/Tool%20type-Automation-e) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-g)
 
 A [Beef-XSS](https://github.com/beefproject/beef) web-based automation tool for controlled lab environments.
 
