@@ -79,7 +79,13 @@ Execute the file
 sudo ./Lithium.sh
 ```
 
+## 🎯 Use Case
 
+Lithium is designed for:
+- Red Team practice
+- XSS exploitation labs
+- Browser exploitation simulations
+- Educational cybersecurity environments
 
 ## 📸 Screenshot(s) 
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a88f6da6-6949-426f-b6b6-c556bf3fb600" />
