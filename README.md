@@ -30,11 +30,14 @@ Lithium Sets up:
 
 # OS/Device Compatibility 
 
-| OS/Device         | Is compatible |
-|--------           |----------     |
-| iPhone            | No            |
-| Android(Termux)   | No            |
-| Luca              | Yes           |
+| OS/Device                | Is compatible |
+|--------                  |----------     |
+| iPhone                   | No            |
+| Android(Termux)          | Yes           |
+| Windows                  | No            |
+| Arch Linux               | Yes           |
+| Mac OS                   | No            |
+| Debian(Kali, Parrot, etc)| Yes           |
 
 ## 📝 Prerequisites
 - Beef-XSS [Browser Exploitation Framework]
