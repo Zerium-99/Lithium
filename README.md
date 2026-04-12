@@ -65,7 +65,8 @@ sudo ./Lithium.sh
 
 
 ## 📸 Screenshot(s) 
-<img width="1900" height="915" alt="image" src="https://github.com/user-attachments/assets/1bebf139-3d6a-45d3-90b9-53042a9d77b9" />
+<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a88f6da6-6949-426f-b6b6-c556bf3fb600" />
+
 
 
 
