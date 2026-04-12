@@ -43,7 +43,8 @@ sudo ./Lithium.sh
 ```
 
 ## 📸 Screenshot(s) 
-<img width="1908" height="927" alt="image" src="https://github.com/user-attachments/assets/2d06066c-c513-4451-afa1-992e969a4c7e" />
+<img width="1900" height="915" alt="image" src="https://github.com/user-attachments/assets/1bebf139-3d6a-45d3-90b9-53042a9d77b9" />
+
 
 
 
