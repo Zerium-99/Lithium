@@ -23,7 +23,7 @@ The tool provides four options:
 - git [To clone this repository]
 - chmod [To make the bash script executable]
 - Root
-- Linux-based operating system
+- Any Linux-based operating system
 
 
 ## 💎 Getting started
