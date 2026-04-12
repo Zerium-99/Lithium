@@ -28,7 +28,7 @@ Lithium Sets up:
 - Public-facing server configuration
 - Launches the BeEF framework ready for use
 
-# OS/Device Compatibility 
+# 🪐 OS/Device Compatibility 
 
 | OS/Device                | Is compatible |
 |--------                  |----------     |
