@@ -6,12 +6,9 @@ A [Beef-XSS](https://github.com/beefproject/beef) web-based automation tool for 
 
 ## ⚠️ DISCLAIMER
 
-This tool is intended for **educational purposes only** and must be used exclusively in **authorized and controlled environments**.
-
+This tool is intended for **educational purposes only** and must be used exclusively in **authorized and controlled environments**. 
 Do not use it against systems you do not own or do not have explicit permission to test.
-
 The objective of Lithium is to automate a setup process, not to harm any system or network.
-
 The author is not responsible for any misuse, damage, or illegal activity caused by this tool.
 
 
