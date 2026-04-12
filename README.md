@@ -22,7 +22,7 @@ The tool provides four options:
 - Start hosting
 - Exit
 
-## Prerequisites
+## 📝 Prerequisites
 - Beef-XSS [Browser Exploitation Framework]
 - NGROK [For tunneling]
 - NGROK Authtoken
