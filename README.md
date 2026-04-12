@@ -4,6 +4,9 @@
 
 A [Beef-XSS](https://github.com/beefproject/beef) web-based automation tool for controlled lab environments.
 
+## ⚠️ DISCLAIMER
+
+..
 
 
 ## 🛠️ Tool Description
