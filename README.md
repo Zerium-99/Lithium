@@ -52,6 +52,10 @@ chmod +x Lithium.sh
 ```
 Move Lithium.sh to the path where beef-xss is installed.
 
+```bash
+mv Lithium.sh <path>
+```
+
 Execute the file 
 
 ```bash
