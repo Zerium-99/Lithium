@@ -50,13 +50,15 @@ Make the file executable
 ```bash
 chmod +x Lithium.sh
 ```
-
+Move Lithium.sh to the path where beef-xss is installed.
 
 Execute the file 
 
 ```bash
 sudo ./Lithium.sh
 ```
+
+
 
 ## 📸 Screenshot(s) 
 <img width="1900" height="915" alt="image" src="https://github.com/user-attachments/assets/1bebf139-3d6a-45d3-90b9-53042a9d77b9" />
