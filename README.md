@@ -87,7 +87,7 @@ Lithium is designed for:
 - Browser exploitation simulations
 - Educational cybersecurity environments
 
-## 📸 Screenshot(s) 
+## 📸 Screenshots
 <img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a88f6da6-6949-426f-b6b6-c556bf3fb600" />
 
 
