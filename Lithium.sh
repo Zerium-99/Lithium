@@ -43,11 +43,13 @@ cat << "EOF"
 EOF
 
 
-echo "[?] Select an option: "
+echo "[?] Select an option: " # Asks the user to choose an option from the menu.
 
-read option
+read option # Reads the user input.
 
-if [ "$option" = "1" ]; then
+# Installs ngrok in the machine.
+
+if [ "$option" = "1" ]; then 
     echo "[+] Installing Ngrok.."
     
     curl -sSL https://ngrok-agent.s3.amazonaws.com/ngrok.asc | \
@@ -57,6 +59,9 @@ if [ "$option" = "1" ]; then
     sudo apt update && \
     sudo apt install ngrok
     sudo ./Lithium.sh
+
+# Adds the Ngrok authtoken.
+
 elif [ "$option" = "2" ]; then
     
     echo "[?] Insert your authtoken: "
@@ -64,6 +69,8 @@ elif [ "$option" = "2" ]; then
     ngrok config add-authtoken "$token"
     sleep 3
     sudo ./Lithium.sh
+    
+# The tool replaces the default config.yaml file with a custom one
 
 elif [ "$option" = "3" ]; then
 
@@ -227,8 +234,11 @@ Password:lithium
 
 [+] Panel URL: https://$link/ui/panel
 [+] Hook URL: https://$link/demos/basic.html
+
 EOF
+
 ./beef > /dev/null
+
 elif [ "$option" = "4" ]; then
     exit
 else
