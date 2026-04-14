@@ -35,6 +35,10 @@ Lithium Sets up:
 ```bash
 ngrok http 3000
 ```
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13cf9d3a-3e32-4089-88e9-37be611bee05" />
+
+
 - Lithium will now ask you to insert the NGROK URL: insert it without "https://", otherwise it won't work and you will encounter in an error.
  
 - Everything is ready, just wait for the tool to give you the new link. Example output:
@@ -104,7 +108,8 @@ Lithium is designed for:
 - Educational cybersecurity environments
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84e189a4-e837-4c78-98f7-95be1ba2cc44" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12ab4b00-51ef-4472-98bd-04bd9529a7fc" />
+
 
 
 
