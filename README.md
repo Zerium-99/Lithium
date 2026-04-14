@@ -40,7 +40,10 @@ ngrok http 3000
 
 
 - Lithium will now ask you to insert the NGROK URL: insert it without "https://", otherwise it won't work and you will encounter in an error.
- 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d11893be-9f3f-4d4e-b5ab-2746cfe0b1ec" />
+
+
 - Everything is ready, just wait for the tool to give you the new link. Example output:
  
 ```
