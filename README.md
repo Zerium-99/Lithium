@@ -53,7 +53,6 @@ ngrok http 3000
 
 # 🪐 OS/Device Compatibility 
 
-## 🖥️ OS / Device Compatibility
 
 Lithium is designed to run in Linux-based environments where BeEF and tunneling tools are supported.
 
