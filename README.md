@@ -12,6 +12,36 @@ The objective of Lithium is to automate a setup process, not to harm any system 
 The author is not responsible for any misuse, damage, or illegal activity caused by this tool.
 
 
+## 💎 Getting started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Zerium-99/Lithium.git
+```
+
+Navigate to the "Lithium" folder
+
+```bash
+cd Lithium
+```
+
+Make the file executable
+```bash
+chmod +x Lithium.sh
+```
+Move Lithium.sh to the path where beef-xss is installed.
+
+```bash
+mv Lithium.sh <path>
+```
+
+Execute the file 
+
+```bash
+sudo ./Lithium.sh
+```
+
 ## 🛠️ Tool Description
 
 Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
@@ -75,35 +105,7 @@ Lithium is designed to run in Linux-based environments where BeEF and tunneling 
 - Any Linux-based operating system
 
 
-## 💎 Getting started
 
-Clone the repository:
-
-```bash
-git clone https://github.com/Zerium-99/Lithium.git
-```
-
-Navigate to the "Lithium" folder
-
-```bash
-cd Lithium
-```
-
-Make the file executable
-```bash
-chmod +x Lithium.sh
-```
-Move Lithium.sh to the path where beef-xss is installed.
-
-```bash
-mv Lithium.sh <path>
-```
-
-Execute the file 
-
-```bash
-sudo ./Lithium.sh
-```
 
 ## 🎯 Use Case
 
