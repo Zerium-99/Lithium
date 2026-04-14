@@ -56,14 +56,14 @@ if [ "$option" = "1" ]; then
     sudo tee /etc/apt/sources.list.d/ngrok.list && \
     sudo apt update && \
     sudo apt install ngrok
-    sudo ./lithium.sh
+    sudo ./Lithium.sh
 elif [ "$option" = "2" ]; then
     
     echo "[?] Insert your authtoken: "
     read token
     ngrok config add-authtoken "$token"
     sleep 3
-    sudo ./lithium.sh
+    sudo ./Lithium.sh
 
 elif [ "$option" = "3" ]; then
 
