@@ -12,6 +12,16 @@ The objective of Lithium is to automate a setup process, not to harm any system 
 The author is not responsible for any misuse, damage, or illegal activity caused by this tool.
 
 
+## 📝 Prerequisites
+- Beef-XSS [Browser Exploitation Framework]
+- NGROK [For tunneling]
+- NGROK Authtoken
+- git [To clone this repository]
+- chmod [To make the bash script executable]
+- Root
+- Any Linux-based operating system
+
+
 ## 💎 Getting started
 
 Clone the repository:
@@ -93,18 +103,6 @@ Lithium is designed to run in Linux-based environments where BeEF and tunneling 
 | Android (Termux)        | ⚠️ Partial | May require manual setup |
 | Windows                 | ❌ No     | Not supported due to dependency limitations |
 | macOS                   | ❌ No     | Not officially tested |
-
-
-## 📝 Prerequisites
-- Beef-XSS [Browser Exploitation Framework]
-- NGROK [For tunneling]
-- NGROK Authtoken
-- git [To clone this repository]
-- chmod [To make the bash script executable]
-- Root
-- Any Linux-based operating system
-
-
 
 
 ## 🎯 Use Case
