@@ -40,8 +40,8 @@ ngrok http 3000
 - Everything is ready, just wait for the tool to give you the new link. Example output:
  
 ```
-[+] Panel URL: https://bb99-93-37-181-18.ngrok-free.app/ui/panel
-[+] Hook URL: https://bb99-93-37-181-18.ngrok-free.app/demos/basic.html
+[+] Panel URL: https://kaod9cns-24-37-88-19.ngrok-free.app/ui/panel
+[+] Hook URL: https://kaod9cns-24-37-88-19.ngrok-free.app/demos/basic.html
 ```
 
 # 🪐 OS/Device Compatibility 
