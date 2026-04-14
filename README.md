@@ -88,7 +88,8 @@ Lithium is designed for:
 - Educational cybersecurity environments
 
 ## 📸 Screenshots
-<img width="1897" height="911" alt="image" src="https://github.com/user-attachments/assets/a88f6da6-6949-426f-b6b6-c556bf3fb600" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/84e189a4-e837-4c78-98f7-95be1ba2cc44" />
+
 
 
 
