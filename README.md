@@ -53,14 +53,18 @@ ngrok http 3000
 
 # 🪐 OS/Device Compatibility 
 
-| OS/Device                | Is compatible |
-|--------                  |----------     |
-| iPhone                   | No            |
-| Android(Termux)          | Yes           |
-| Windows                  | No            |
-| Arch Linux               | Yes           |
-| Mac OS                   | No            |
-| Debian(Kali, Parrot, etc)| Yes           |
+## 🖥️ OS / Device Compatibility
+
+Lithium is designed to run in Linux-based environments where BeEF and tunneling tools are supported.
+
+| Platform / Device        | Supported | Notes |
+|-------------------------|----------|------|
+| Arch Linux              | ✅ Yes    | Fully tested(The NGROK installation process is different) |
+| Debian-based (Kali, Parrot, Ubuntu) | ✅ Yes | Recommended environments |
+| Android (Termux)        | ⚠️ Partial | May require manual setup |
+| Windows                 | ❌ No     | Not supported due to dependency limitations |
+| macOS                   | ❌ No     | Not officially tested |
+
 
 ## 📝 Prerequisites
 - Beef-XSS [Browser Exploitation Framework]
