@@ -29,8 +29,20 @@ Lithium Sets up:
 - Launches the BeEF framework ready for use
 
 ## Hosting the URL
-
-..
+- 1. Choose the third option on the menu
+- 2. Open a second terminal and start the ngrok tunnel on port 3000(Beef-XSS runs on port 3000):
+ 
+```bash
+ngrok http 3000
+```
+- 3. Lithium will now ask you to insert the NGROK URL: insert it without "https://", otherwise it won't work and you will encounter in an error.
+ 
+- 4. Everything is ready, just wait for the tool to give you the new link. Example output:
+ 
+```
+[+] Panel URL: https://bb99-93-37-181-18.ngrok-free.app/ui/panel
+[+] Hook URL: https://bb99-93-37-181-18.ngrok-free.app/demos/basic.html
+```
 
 # 🪐 OS/Device Compatibility 
 
