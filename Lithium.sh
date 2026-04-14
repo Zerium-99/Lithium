@@ -237,7 +237,7 @@ Password:lithium
 
 EOF
 
-./beef > /dev/null
+./beef > /dev/null # Launches beef in silent mode.
 
 elif [ "$option" = "4" ]; then
     exit
