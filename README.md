@@ -116,6 +116,11 @@ Lithium is designed for:
 ## 📸 Screenshots
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12ab4b00-51ef-4472-98bd-04bd9529a7fc" />
 
+## 🔍 Find me on
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Zerium.px)
+![Discord](https://img.shields.io/badge/Discord-zerium.px-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 
 
 
