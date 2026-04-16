@@ -70,7 +70,7 @@ Lithium Sets up:
 - Public-facing server configuration
 - Launches the BeEF framework ready for use
 
-# 💉 How it works
+## ⚙️ How It Works
 
 Lithium modifies the default beEF configuration file `config.yaml`,  replacing it with a custom configuration file where the following parameters are set by the user:
 
@@ -101,7 +101,7 @@ ngrok http 3000
 
 - Everything is ready, just wait for the tool to give you the new link.
 
-# 👁️ Example output:
+## 👁️ Example output:
  
 ```
 [!] New credentials
@@ -112,7 +112,7 @@ Password: test
 [+] Hook URL: https://kaod9cns-24-37-88-19.ngrok-free.app/demos/basic.html
 ```
 
-# 🪐 OS/Device Compatibility 
+## 🪐 OS/Device Compatibility 
 
 
 Lithium is designed to run in Linux-based environments where BeEF and tunneling tools are supported.
@@ -125,6 +125,14 @@ Lithium is designed to run in Linux-based environments where BeEF and tunneling 
 | Windows                 | ❌ No     | Not supported due to dependency limitations |
 | macOS                   | ❌ No     | Not officially tested |
 
+
+## 🧠 Key Concepts
+
+- Browser Exploitation (BeEF)
+- XSS Hooking
+- Tunneling (Ngrok)
+- Configuration Automation
+- Reverse Proxy Handling
 
 ## 🎯 Use Case
 
