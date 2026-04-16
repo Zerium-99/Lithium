@@ -55,6 +55,7 @@ sudo ./Lithium.sh
 ## 🛠️ Tool Description
 
 Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
+
 It provides four options:
 
 - Install Ngrok: Automatically installs ngrok from its official repository, simplifying tunneling setup.
@@ -63,11 +64,22 @@ It provides four options:
 - Exit from the tool
 
 Lithium Sets up:
+
 - BeEF login credentials
 - Network and hooking parameters
 - Public-facing server configuration
 - Launches the BeEF framework ready for use
 
+# 💉 How it works
+
+Lithium modifies the default Beef configuration file: `config.yaml` replacing it with a new one, changing the following parameters(all of them are given by the user):
+
+- Username and password (For safety reasons, because using the default credentials is risky and may give unwanted access to the control panel.)
+- Host
+- https (Enables secure encryption)
+- allow_reverse_proxy
+
+When the replacement is done, beef gets automatically executed.
 ### Hosting the URL
 -  Choose the third option on the menu
 -  Open a second terminal and start the ngrok tunnel on port 3000(Beef-XSS runs on port 3000):
