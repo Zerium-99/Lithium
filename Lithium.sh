@@ -2,7 +2,7 @@
 clear
 
 if (( EUID != 0 )); then
-  echo "ERROR: RUN ME AS ROOT!"
+  printf "\033[31mERROR: RUN ME AS ROOT!\033[0m\n"
   exit 1
 fi
 
