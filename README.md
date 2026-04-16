@@ -13,7 +13,7 @@ The author is not responsible for any misuse, damage, or illegal activity caused
 
 
 ## 📝 Prerequisites
-- Beef-XSS [Browser Exploitation Framework]
+- BeEF-XSS [Browser Exploitation Framework]
 - NGROK [For tunneling]
 - NGROK Authtoken
 - git [To clone this repository]
