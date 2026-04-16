@@ -104,6 +104,10 @@ ngrok http 3000
 # 👁️ Example output:
  
 ```
+[!] New credentials
+Username: test
+Password: test
+
 [+] Panel URL: https://kaod9cns-24-37-88-19.ngrok-free.app/ui/panel
 [+] Hook URL: https://kaod9cns-24-37-88-19.ngrok-free.app/demos/basic.html
 ```
