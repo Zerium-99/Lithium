@@ -88,6 +88,12 @@ elif [ "$option" = "3" ]; then
     echo "[?] Insert your URL from Ngrok:"
     
     read link
+
+    echo "[!] Change your credentials "
+    echo "[?] Username: "
+    read username
+    echo "[?] Password: "
+    read password
     cat << EOF > config.yaml
    
    #
@@ -109,8 +115,8 @@ elif [ "$option" = "3" ]; then
        # Credentials to authenticate in BeEF.
        # Used by both the RESTful API and the Admin interface
        credentials:
-         user:   "lithium"
-         passwd: "lithium"
+         user:   "$username"
+         passwd: "$password"
    
        # Interface / IP restrictions
        restrictions:
@@ -236,14 +242,14 @@ elif [ "$option" = "3" ]; then
 EOF
 
 cat << EOF
-
+clear
 [!] New credentials:
 
-Username:lithium
-Password:lithium
+Username: $username
+Password: $password
 
 [+] Panel URL: https://$link/ui/panel
-[+] Hook URL: https://$link/demos/basic.html
+[+] Hook URL: https://$link/hook.js
 
 EOF
 
