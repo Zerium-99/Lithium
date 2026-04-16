@@ -54,7 +54,7 @@ sudo ./Lithium.sh
 
 ## 🛠️ Tool Description
 
-Lithium is a Beef-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
+Lithium is a BeEF-XSS automation tool for controlled lab environments. Its purpose is to automate the following task: hosting a hook url using a tunneling service.
 
 It provides four options:
 
@@ -72,10 +72,10 @@ Lithium Sets up:
 
 # 💉 How it works
 
-Lithium modifies the default beEf configuration file `config.yaml`,  replacing it with a custom configuration file where the following parameters are set by the user:
+Lithium modifies the default beEF configuration file `config.yaml`,  replacing it with a custom configuration file where the following parameters are set by the user:
 
 - Username and password (For safety reasons, because using the default credentials is risky and may give unwanted access to the control panel.)
-- Host ( Domain used to expose beEf)
+- Host ( Domain used to expose beEF)
 - https (Enables secure communication when properly configured)
 - allow_reverse_proxy (Required when using tunneling services like Ngrok)
 
