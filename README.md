@@ -88,7 +88,8 @@ ngrok http 3000
 <img width="1902" height="916" alt="image" src="https://github.com/user-attachments/assets/6d475256-251b-47ca-8bf6-ad38d0ee8566" />
 
 - Everything is ready, just wait for the tool to give you the new link.
-Example output:
+
+# 👁️ Example output:
  
 ```
 [+] Panel URL: https://kaod9cns-24-37-88-19.ngrok-free.app/ui/panel
