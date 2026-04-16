@@ -1,10 +1,14 @@
 #!/bin/bash
 clear
 
+# Checks if the user ran the script as root.
+
 if (( EUID != 0 )); then
   printf "\033[31mERROR: RUN ME AS ROOT!\033[0m\n"
   exit 1
 fi
+
+# Menu
 
 cat << "EOF"
 
