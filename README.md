@@ -79,7 +79,7 @@ Lithium modifies the default beEF configuration file `config.yaml`,  replacing i
 - https (Enables secure communication when properly configured)
 - allow_reverse_proxy (Required when using tunneling services like Ngrok)
 
-When the replacement is done, beef gets automatically executed.
+When the replacement is done, BeEF gets automatically executed.
 ### Hosting the URL
 -  Choose the third option on the menu
 -  Open a second terminal and start the ngrok tunnel on port 3000(Beef-XSS runs on port 3000):
