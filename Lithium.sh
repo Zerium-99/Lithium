@@ -240,9 +240,9 @@ elif [ "$option" = "3" ]; then
    
    
 EOF
-
-cat << EOF
 clear
+cat << EOF
+
 [!] New credentials:
 
 Username: $username
