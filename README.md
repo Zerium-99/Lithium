@@ -84,7 +84,8 @@ ngrok http 3000
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d11893be-9f3f-4d4e-b5ab-2746cfe0b1ec" />
 
 
-- Everything is ready, just wait for the tool to give you the new link. Example output:
+- Everything is ready, just wait for the tool to give you the new link.
+Example output:
  
 ```
 [+] Panel URL: https://kaod9cns-24-37-88-19.ngrok-free.app/ui/panel
