@@ -80,7 +80,6 @@ elif [ "$option" = "2" ]; then
     sleep 3
     sudo ./Lithium.sh
     
-# The tool replaces the default config.yaml file with a custom one
 
 elif [ "$option" = "3" ]; then
 
@@ -88,12 +87,13 @@ elif [ "$option" = "3" ]; then
     echo "[?] Insert your URL from Ngrok:"
     
     read link
-
+    # Changes your credentials for safe reasons
     echo "[!] Change your credentials "
     echo "[?] Username: "
     read username
     echo "[?] Password: "
     read password
+    # The tool replaces the default config.yaml file with a custom one
     cat << EOF > config.yaml
    
    #
@@ -241,6 +241,9 @@ elif [ "$option" = "3" ]; then
    
 EOF
 clear
+
+# Prints the final results
+
 cat << EOF
 
 [!] New credentials:
