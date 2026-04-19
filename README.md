@@ -153,7 +153,7 @@ Lithium is designed for:
 
 **Windows 11 +  WSL**
 
-<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/3e6502df-3915-40d5-a721-c2c7bc32b99a" />
+<img width="1918" height="1012" alt="image" src="https://github.com/user-attachments/assets/f729e05e-6310-433e-aaf2-50fed96c8d36" />
 
 
 ## 🔍 Find me on
