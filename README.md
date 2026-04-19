@@ -144,7 +144,17 @@ Lithium is designed for:
 - Educational cybersecurity environments
 
 ## 📸 Screenshots
+
+**Parrot OS**
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/12ab4b00-51ef-4472-98bd-04bd9529a7fc" />
+
+---
+
+**Windows 11 +  WSL**
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/3e6502df-3915-40d5-a721-c2c7bc32b99a" />
+
 
 ## 🔍 Find me on
 
