@@ -127,7 +127,7 @@ Lithium is designed to run in Linux-based environments where BeEF and tunneling 
 | Arch Linux              | ⚠️ Partial    | Fully tested(The Ngrok installation doesn't work) |
 | Debian-based (Kali, Parrot, Ubuntu) | ✅ Yes | Recommended environments |
 | Android (Termux)        | ⚠️ Partial | May require manual setup |
-| Windows                 | ❌ No     | Not supported due to dependency limitations |
+| Windows (Native)                 | ❌ No     | Not supported due to dependency limitations |
 | Windows + WSL           | ✅ Yes    | Fully tested |
 | macOS                   | ❌ No     | Not officially tested |
 
