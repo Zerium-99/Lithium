@@ -88,7 +88,6 @@ When the replacement is done, BeEF gets automatically executed.
 ngrok http 3000
 ```
 
-> [!IMPORTANT]
 > Never share your ngrok authtoken, this could lead to potential attacks by malicious hackers, such as exposing your identity, consuming your network resources or even ban your account for TOS violation.
 
 
