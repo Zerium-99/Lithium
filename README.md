@@ -79,12 +79,12 @@ Lithium modifies the default beEF configuration file `config.yaml`,  replacing i
 - https (Enables secure communication when properly configured)
 - allow_reverse_proxy (Required when using tunneling services like Ngrok)
 
-> [!IMPORTANT]
->  > Never share your ngrok authtoken, this could lead to potential attacks by malicious hackers, such as exposing your identity, consuming your network resources or even ban your account for TOS violation.
-
-
-
 When the replacement is done, BeEF gets automatically executed.
+
+> [!IMPORTANT]
+> Never share your ngrok authtoken, this could lead to potential attacks by malicious hackers, such as exposing your identity, consuming your network resources or even ban your account for TOS violation.
+
+
 ### Hosting the URL
 -  Choose the third option on the menu
 -  Open a second terminal and start the ngrok tunnel on port 3000(Beef-XSS runs on port 3000):
