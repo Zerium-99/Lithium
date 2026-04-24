@@ -1,4 +1,4 @@
-# 👾 Lithium v1.0
+<img width="845" height="181" alt="image" src="https://github.com/user-attachments/assets/5bb741e7-9f67-403f-a038-f6a7fa48a066" /># 👾 Lithium v1.0
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) ![Language](https://img.shields.io/badge/Language-Bash-Bash) ![Version](https://img.shields.io/badge/Version-1.0-1) ![Tool Type](https://img.shields.io/badge/Tool%20type-Automation-e) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-g)
 
@@ -87,6 +87,10 @@ When the replacement is done, BeEF gets automatically executed.
 ```bash
 ngrok http 3000
 ```
+
+> [!IMPORTANT]
+> Never share your ngrok authtoken, this could lead to potential attacks by malicious hackers, such as exposing your identity, consuming your network resources or even ban your account for TOS violation.
+
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13cf9d3a-3e32-4089-88e9-37be611bee05" />
 
