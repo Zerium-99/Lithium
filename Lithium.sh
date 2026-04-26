@@ -67,7 +67,7 @@ if [ "$option" = "1" ]; then
     
     sudo tar xvzf ./ngrok-v3-stable-linux-amd64.tgz -C /usr/local/bin
     
-    sudo ./Lithium.sh
+    ./Lithium.sh
 
 # Adds the Ngrok authtoken.
 
@@ -77,7 +77,7 @@ elif [ "$option" = "2" ]; then
     read token
     ngrok config add-authtoken "$token"
     sleep 3
-    sudo ./Lithium.sh
+    ./Lithium.sh
     
 
 elif [ "$option" = "3" ]; then
