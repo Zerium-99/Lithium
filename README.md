@@ -139,7 +139,7 @@ Lithium is designed to run in Linux-based environments where BeEF and tunneling 
 | Android (Termux)        | ⚠️ Partial | May require manual setup |
 | Windows (Native)                 | ❌ No     | Not supported due to dependency limitations |
 | Windows + WSL           | ✅ Yes    | Fully tested |
-| macOS                   | ❌ No     | Not officially tested |
+| macOS                   | ✅ Yes    | BeEF and Lithium Work since Mac OS is a unix based OS |
 
 
 ## 🧠 Key Concepts
