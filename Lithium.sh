@@ -255,7 +255,7 @@ Password: $password
 
 EOF
 
-./beef > /dev/null # Launches beef in silent mode.
+./beef > /dev/null > history.log # Launches beef in silent mode.
 
 elif [ "$option" = "4" ]; then
     exit
